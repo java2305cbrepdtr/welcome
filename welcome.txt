@@ -1,0 +1,4 @@
+hello
+welcome to git
+this is my first file in git
+i dont know much about git
